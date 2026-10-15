@@ -1,1 +1,0 @@
-I am learning Git operations using VS Code.
